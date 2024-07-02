@@ -19,3 +19,14 @@ Nested [...]: Matches multiple segments of the URL path and captures them as an 
 
 8) <Link href = '/colorbox'>Go to Colorbox Panel</Link>
    <Link href = {`/user/profile/${id}`}>Go to Admin Panel</Link>
+
+9) Router -> used for navigation within code 
+   Syntax - https://drive.google.com/file/d/1Wl3tGpYFUXX1nYObkWac85VLA932vTcI/view?usp=sharing
+
+10) Server Components allow you to write UI that can be rendered and optionally cached on the server. By default all components are server side and cached on the server. If we want to make a server side component client side, we can use "use client" in a file at top, then all other modules imported into it, including child components, are considered part of the client bundle.
+
+11) When to use Client Side Components and Server Side Components
+Refer - https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns
+
+12) 
+
