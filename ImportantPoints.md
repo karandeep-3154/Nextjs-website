@@ -1,6 +1,6 @@
 1) Server side rendering is a technique used in web development where the server generates the HTML content of a web page before it's sent to the user's browser. This is in contrast to Client Side Rendering (CSR), where the browser generates the HTML content after receiving the raw data from the server.
 
-2) Nextjs Supports Server side rendering
+2) Nextjs Supports Server side rendering also
 
 3) () is used to omit Current folder in url path
 Example: http://localhost:8080/setting
@@ -28,5 +28,6 @@ Nested [...]: Matches multiple segments of the URL path and captures them as an 
 11) When to use Client Side Components and Server Side Components
 Refer - https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns
 
-12) 
+12) all classess and ids css on golbals.css can be applied anywhere.
 
+13) For Backend Implementation in NextJS, Refer - https://youtu.be/yN8VXmncvRU?si=VpSA5FNeBvIOumg-
